@@ -30,7 +30,7 @@ public class Employeeattendence {
 	}
 	public static void Salary() {
 		int wagePerHour=20;
-		int workinghour=8;
+		int workingHour=8;
 		if(flag==1)
 		{
 			int salaryForDay=wagePerHour*workinghour;
