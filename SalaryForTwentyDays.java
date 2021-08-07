@@ -37,7 +37,7 @@ public class SalaryForTwentyDays {
 
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to Day8 Emp Salary computation Problem");
+		System.out.println("Welcome to  Emp Salary computation Problem");
 		empIsPresent();
 		
 	}
